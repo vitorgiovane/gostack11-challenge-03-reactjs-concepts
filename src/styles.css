@@ -8,6 +8,11 @@ body {
   font-size: 14px;
 }
 
+h1 {
+  font-family: sans-serif;
+  color: #666666;
+}
+
 div {
   width: 100%;
   margin: 20px;
@@ -16,6 +21,8 @@ div {
 div li {
   display: flex;
   align-items: center;
+  font-family: sans-serif;
+  color: #666666;
 }
 
 div li + li {
